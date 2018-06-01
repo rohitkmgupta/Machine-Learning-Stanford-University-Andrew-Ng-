@@ -1,2 +1,2 @@
 # Machine-Learning-Stanford-University-Andrew-Ng-
-# Lectures and Programming Excercise solved by me. 
+# Lectures and Programming Exercises solved by me. 
