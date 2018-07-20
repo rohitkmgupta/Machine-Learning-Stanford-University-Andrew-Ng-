@@ -1,2 +1,3 @@
 # Machine-Learning-Stanford-University-Andrew-Ng-
-# Lectures and Programming Exercises solved by me. 
+This github repository contains lecture slides of each week in this course and programming exercises as solved by me. 
+
